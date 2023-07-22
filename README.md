@@ -2,7 +2,7 @@
 - 👀 I'm interested in personal and professional development in the area of ​​programming, aiming to meet the development of new and old projects.
 - 🌱 I’m currently cursando Faculdade de Análise e  Desenvolvimento de Sistemas, aprendendo inicialmente sobre sistemas operacionais( Win e Linux).
 - 💞️ I’m looking to collaborate em projetos (star up), ajudar no desenvolvimento de projetos novos e antigos. Possúo conhecimentos em linguagens como JavaScript, HTML5, CSS3, C#, Python e um pouco de SQL.
-- 📫 Para me contatar, tenho o meu e-mail profissional: renanchristopher9@gmail.com.
+- 📫 To contact me, I have my professional email: renanchristopher9@gmail.com.
 
 <!---
 RenanChristopheeeer/RenanChristopheeeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
