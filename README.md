@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RenanChristopheeeer, tenho 30 anos e atualmente resido em Rio Claro - SP - BRAZIL
-- 👀 I’m interested in desenvolvimento pessoal e profissional na àrea da programação, visando atender  o desenvolvimento de projetos novos e antigos.
-- 🌱 I’m currently cursando Faculdade de Análise e  Desenvolvimento de Sistemas, aprendendo inicialmente sobre sistemas operacionais( Win e Linux), sobre empreendedorismo e Antropologia.
+- 👋 Hi, I’m @RenanChristopheeeer, I am 30 years old and I currently live in Rio Claro - SP - BRAZIL
+- 👀 I'm interested in personal and professional development in the area of ​​programming, aiming to meet the development of new and old projects.
+- 🌱 I’m currently cursando Faculdade de Análise e  Desenvolvimento de Sistemas, aprendendo inicialmente sobre sistemas operacionais( Win e Linux).
 - 💞️ I’m looking to collaborate em projetos (star up), ajudar no desenvolvimento de projetos novos e antigos. Possúo conhecimentos em linguagens como JavaScript, HTML5, CSS3, C#, Python e um pouco de SQL.
 - 📫 Para me contatar, tenho o meu e-mail profissional: renanchristopher9@gmail.com.
 
